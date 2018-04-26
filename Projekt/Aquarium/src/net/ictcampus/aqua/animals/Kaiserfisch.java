@@ -1,5 +1,9 @@
 package net.ictcampus.aqua.animals;
 
+/**
+* This is a class of a certain fish.
+*
+*/
 public class Kaiserfisch {
 	private int birthyear;
 	private float length;
